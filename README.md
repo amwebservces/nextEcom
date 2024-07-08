@@ -7,7 +7,7 @@
 
 ## Authors
 
-- [Abdullah Moiz](https://www.github.com/Abdullah-moiz)
+- [Am Web Services](https://www.github.com/amwebservces)
 
 ## Features
 
